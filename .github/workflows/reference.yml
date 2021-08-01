@@ -3,7 +3,7 @@ name: Build Reference
 on:
   push:
     branches:
-    - master
+    - ldoc_live
 
 jobs:
   build:
